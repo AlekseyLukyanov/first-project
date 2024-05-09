@@ -3,5 +3,9 @@ public class Main {
 
         System.out.printf("Hello and welcome!");
 
+        System.out.printf("Привет мир!");
+
+        int x = 1;
+
     }
 }
