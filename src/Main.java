@@ -9,6 +9,8 @@ public class Main {
 
         "Privet!";
 
+        "Privet2!";
+
 
 
     }
