@@ -7,7 +7,9 @@ public class Main {
 
         int x = 1;
 
-        "Priver2!"
+
+        "Priver1!"
+
 
 
         "Priver3!"
