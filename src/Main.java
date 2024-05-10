@@ -6,19 +6,7 @@ public class Main {
         System.out.printf("Привет мир!");
 
         int x = 1;
-
-
-        "Priver1!"
-
-        "Priver1!"
-
         
-        "Priver1!"
-
-
-
-
-        "Priver3!"
 
 
 
