@@ -6,7 +6,9 @@ public class Main {
         System.out.printf("Привет мир!");
 
         int x = 1;
-        
+
+        System.out.printf("Второй коммит!");
+
 
 
 
